@@ -1,0 +1,106 @@
+﻿  Classes.cpp
+  Main.cpp
+C:\Users\iberk\Desktop\OOP-BLG252\TemplateProject\LogicSimulator\Main.cpp(183,57): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\iberk\Desktop\OOP-BLG252\TemplateProject\LogicSimulator\Main.cpp(183,43): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\iberk\Desktop\OOP-BLG252\TemplateProject\LogicSimulator\Main.cpp(265,121): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\iberk\Desktop\OOP-BLG252\TemplateProject\LogicSimulator\Main.cpp(265,87): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\iberk\Desktop\OOP-BLG252\TemplateProject\LogicSimulator\Main.cpp(291,121): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\iberk\Desktop\OOP-BLG252\TemplateProject\LogicSimulator\Main.cpp(291,87): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\iberk\Desktop\OOP-BLG252\TemplateProject\LogicSimulator\Main.cpp(322,125): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\iberk\Desktop\OOP-BLG252\TemplateProject\LogicSimulator\Main.cpp(322,91): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\iberk\Desktop\OOP-BLG252\TemplateProject\LogicSimulator\Main.cpp(339,132): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\iberk\Desktop\OOP-BLG252\TemplateProject\LogicSimulator\Main.cpp(339,98): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\iberk\Desktop\OOP-BLG252\TemplateProject\LogicSimulator\Main.cpp(345,144): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\iberk\Desktop\OOP-BLG252\TemplateProject\LogicSimulator\Main.cpp(345,110): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\iberk\Desktop\OOP-BLG252\TemplateProject\LogicSimulator\Main.cpp(347,119): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\iberk\Desktop\OOP-BLG252\TemplateProject\LogicSimulator\Main.cpp(347,85): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+  Generating Code...
+  LogicSimulator.vcxproj -> C:\Users\iberk\Desktop\OOP-BLG252\TemplateProject\Debug\LogicSimulator.exe
